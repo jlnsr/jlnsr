@@ -11,7 +11,12 @@
      <li>Wealth management software services</li>
 <ul>
 ``` 
-- 🌱 I’m currently learning Natural Language Processing, Machine Learning, React, and THREE.js
+- 🌱 I’m currently learning:
+     * Natural Language Processing
+     * Data Structures
+     * Machine Learning
+     * React
+     * Three.js
 - 💞️ I’m looking to collaborate on front-end, creative interactive applications
 - 📫 How to reach me;
      1. email: julien.sotoraspa@gmail.com
