@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @jlnsr, my real name is Julien
 - 👀 I’m interested in a variety of fields under the computer science umbrella, including but not limited to;
-     > machine learning for automation
-     > full-stack development of UI's
-     > text analytics, information retrieval
-     > Gen AI
-     > UI/UX
-     > digital music production
-     > wealth mangement software services 
+```
+for interest in ["machine learning for automation","full-satck","text analytics", "Gen AI", "UI/UX", "Digital music production", "Wealth management software services":
+     print(f"* {interest}")
+``` 
 - 🌱 I’m currently learning Natural Language Processing, Machine Learning, React, and THREE.js
 - 💞️ I’m looking to collaborate on front-end, creative interactive applications
 - 📫 How to reach me;
